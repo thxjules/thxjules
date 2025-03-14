@@ -16,13 +16,14 @@
 
 ---
 
-## 💻 Tecnologías principales
+##  Tecnologías principales
 <div align="center">
+
+  ### 💻Frontend
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-FFD1DC.svg?style=for-the-badge&logo=html5&logoColor=black">
     <img src="https://img.shields.io/badge/CSS3-FFB7C5.svg?style=for-the-badge&logo=css3&logoColor=black">
     <img src="https://img.shields.io/badge/JavaScript-FF8FAB.svg?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/React-FFB6C1.svg?style=for-the-badge&logo=react&logoColor=black">
   </p>
 
   ### ⚙️ Backend y Servidores
