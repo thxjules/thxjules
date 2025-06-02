@@ -72,7 +72,7 @@
 
 ## 📊 Estadísticas de GitHub
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thxjules&layout=compact&langs_count=15&theme=dracula&title_color=FF69B4&text_color=FFC1CC" alt="Lenguajes más usados" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thxjules&layout=compact&langs_count=10&theme=dracula&title_color=FF69B4&text_color=FFC1CC" alt="Lenguajes más usados" />
 </div>
 
 ---
